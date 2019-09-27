@@ -1,2 +1,0 @@
-# guliang
-Gittest
